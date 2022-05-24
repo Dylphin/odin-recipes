@@ -11,14 +11,8 @@ img {
 .smoothie-title { 
     color: purple; 
 } 
-.bacon-list { 
-    background-color: black;
-    color: white; 
-}
-.quiche-list { 
-    background-color: black;
-    color: white; 
-}
+.bacon-list,
+.quiche-list,
 .smoothie-list { 
     background-color: black;
     color: white; 
