@@ -2,3 +2,12 @@ img {
     height: auto;
     width: 500px;
 }
+.bacon-title { 
+    color: red; 
+}
+.quiche-title { 
+    color: yellow; 
+}
+.smoothie-title { 
+    color: purple; 
+}
