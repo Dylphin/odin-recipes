@@ -6,8 +6,20 @@ img {
     color: red; 
 }
 .quiche-title { 
-    color: yellow; 
+    color: greenyellow; 
 }
 .smoothie-title { 
     color: purple; 
+} 
+.bacon-list { 
+    background-color: black;
+    color: white; 
+}
+.quiche-list { 
+    background-color: black;
+    color: white; 
+}
+.smoothie-list { 
+    background-color: black;
+    color: white; 
 }
