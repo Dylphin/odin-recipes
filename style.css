@@ -2,24 +2,22 @@ img {
     height: auto;
     width: 500px;
 }
-.bacon-title { 
-    color: red; 
+
+.main-head,
+.bacon-head,
+.smoothie-head,
+.quiche-head { 
+    color: white; 
+    text-align: center;
 }
-.quiche-title { 
-    color: greenyellow; 
-}
-.smoothie-title { 
-    color: purple; 
-} 
-.bacon-list { 
-    background-color: black;
+
+a,
+h3,
+ul,
+ol,
+p { 
     color: white; 
 }
-.quiche-list { 
-    background-color: black;
-    color: white; 
-}
-.smoothie-list { 
-    background-color: black;
-    color: white; 
+body { 
+    background-color: black; 
 }
